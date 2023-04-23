@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @uiulab
-- 👀 I’m interested in User Experiencer and AI
+- 👀 I’m be User Experiencer (UX'r)
 - 🌱 I’m currently learning React JS and Css and NodeJS
 - 📫 You can to find me in http://uiulab.com or contato@uiulab.com;
 
