@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uiulab
 - 👀 I’m be User Experiencer (UX'r)
-- 🌱 I’m currently learning React JS and Css and NodeJS
+- 🌱 I’m currently learning ReactJS, Java and NodeJS
 - 📫 You can to find me in http://uiulab.com or contato@uiulab.com;
 
 <!---
