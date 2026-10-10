@@ -3,13 +3,11 @@
 <img src="assets/header.svg" alt="William Chaves, Product Designer. Construo produtos para escalar." width="100%" />
 
 <br/>
-
-Transformo caos em clareza.
+<br/><br/>
 
 <a href="https://williamchaves.framer.website/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-14171A?style=for-the-badge&logo=framer&logoColor=white" alt="Portfólio" /></a>
 <a href="https://linkedin.com/in/williamchaves"><img src="https://img.shields.io/badge/LinkedIn-14171A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://docs.google.com/document/d/1JVR4PHGfBMMnGDsHLsDi6jNI_cPMmewi/edit?usp=sharing"><img src="https://img.shields.io/badge/Curr%C3%ADculo-14171A?style=for-the-badge&logo=googledocs&logoColor=white" alt="Currículo" /></a>
-
 <br/><br/>
 
 <img src="assets/stats.svg" alt="6 anos de Product Design, 1 milhão de pessoas impactadas, 3 produtos premiados, 40% menos tempo de desenvolvimento" width="100%" />
