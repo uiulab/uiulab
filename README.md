@@ -1,59 +1,70 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=William%20Chaves&fontSize=52&fontAlignY=38&desc=Product%20Designer%20que%20constr%C3%B3i%20com%20IA&descAlignY=60" alt="William Chaves, Product Designer que constrói com IA" />
-
-<a href="https://github.com/USUARIO">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=560&lines=Descobrindo+o+problema+antes+de+desenhar+a+tela;Construindo+o+Distill+em+p%C3%BAblico;6+anos+em+discovery+e+design+systems;Prototipando+com+IA+(e+errando+r%C3%A1pido)" alt="Frases animadas" />
-</a>
+<img src="assets/header.svg" alt="William Chaves, Product Designer. Construo produtos para escalar." width="100%" />
 
 <br/>
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-111111?style=for-the-badge&logo=framer&logoColor=white)](https://williamchaves.framer.website/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/williamchaves)
+Transformo caos em clareza para empresas de saúde e fintechs.
+
+<a href="https://williamchaves.framer.website/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-14171A?style=for-the-badge&logo=framer&logoColor=white" alt="Portfólio" /></a>
+<a href="https://linkedin.com/in/williamchaves"><img src="https://img.shields.io/badge/LinkedIn-14171A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://docs.google.com/document/d/1JVR4PHGfBMMnGDsHLsDi6jNI_cPMmewi/edit?usp=sharing"><img src="https://img.shields.io/badge/Curr%C3%ADculo-14171A?style=for-the-badge&logo=googledocs&logoColor=white" alt="Currículo" /></a>
+
+<br/><br/>
+
+<img src="assets/stats.svg" alt="6 anos de Product Design, 1 milhão de pessoas impactadas, 3 produtos premiados, 40% menos tempo de desenvolvimento" width="100%" />
 
 </div>
+
+<br/>
 
 ## Oi, eu sou o William
 
-Product Designer em Florianópolis. Passei 6 anos descobrindo qual problema vale resolver antes de desenhar qualquer tela, em um sistema público com mais de 1 milhão de usuários por ano e em design systems de produtos B2B. Agora eu também construo, com a IA fazendo o trabalho braçal e eu insistindo nas perguntas certas.
+Product Designer em Florianópolis. Passei 6 anos descobrindo qual problema vale resolver antes de desenhar qualquer tela, em um sistema público usado por mais de 1 milhão de pessoas por ano e em design systems de produtos B2B. Agora eu também construo, com a IA fazendo o trabalho braçal e eu insistindo nas perguntas certas.
 
-Se você veio por causa de vaga, o portfólio conta a história melhor do que o código. Se veio por curiosidade, fica à vontade, mas já aviso que aqui tem mais protótipo do que produção (ainda).
+## Experiências
 
-## Agora
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://williamchaves.framer.website/project/bioconex"><b>Bioconex</b></a><br/>
+      Como redesenhamos uma plataforma B2B na Amazônia que ninguém conseguia usar.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://williamchaves.framer.website/project/provaoeletronico"><b>Provão</b></a><br/>
+      Levando educação para regiões remotas do Amazonas.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://williamchaves.framer.website/project/visaohack"><b>Visão Hack</b></a><br/>
+      48 horas ensinando UX para quem nunca tinha parado para pensar no usuário.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://brasil.uxdesign.cc/estudo-de-caso-ux-ui-wollibrary-uma-nova-forma-colaborativa-de-trocar-conhecimentos-c768cee9929b"><b>Wollibrary</b></a><br/>
+      Uma nova forma colaborativa de trocar conhecimentos.
+    </td>
+  </tr>
+</table>
 
-- Construindo o **Distill**, que transforma o material de uma sessão de discovery em relatório que o stakeholder realmente lê
-- Contando o processo, inclusive os erros, no LinkedIn e no Substack
-- Estudando como designers, devs e PMs estão virando um papel só, e o que isso muda para quem trabalha com produto
+## Como posso ajudar
 
-## Projetos
+Com discovery e research, para achar o problema real antes de qualquer solução. Com estratégia de produto, priorizando por evidência. Com UX/UI de produtos complexos, testando com usuários reais antes de desenvolver. E com design systems que o time usa de verdade, com componentes, documentação e governança.
 
-<div align="center">
+## O que estou construindo agora
 
-[![Distill](https://github-readme-stats.vercel.app/api/pin/?username=USUARIO&repo=distill&theme=tokyonight&hide_border=true)](https://github.com/USUARIO/distill)
-[![Skills do Claude](https://github-readme-stats.vercel.app/api/pin/?username=USUARIO&repo=claude-skills&theme=tokyonight&hide_border=true)](https://github.com/USUARIO/claude-skills)
-
-[![Workflows n8n](https://github-readme-stats.vercel.app/api/pin/?username=USUARIO&repo=n8n-workflows&theme=tokyonight&hide_border=true)](https://github.com/USUARIO/n8n-workflows)
-[![Decisões do Distill](https://github-readme-stats.vercel.app/api/pin/?username=USUARIO&repo=distill-decisions&theme=tokyonight&hide_border=true)](https://github.com/USUARIO/distill-decisions)
-
-</div>
+O **Distill** pega o material de uma sessão de discovery (áudio, foto de post-it, documentos) e devolve o relatório no formato que o stakeholder realmente lê. [Estado atual: em desenvolvimento] Conto o processo, inclusive os erros, no [LinkedIn](https://linkedin.com/in/williamchaves).
 
 ## Com o que eu trabalho
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+<img src="https://img.shields.io/badge/Figma-14171A?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/Framer-14171A?style=flat-square&logo=framer&logoColor=white" alt="Framer" />
+<img src="https://img.shields.io/badge/Miro-14171A?style=flat-square&logo=miro&logoColor=white" alt="Miro" />
+<img src="https://img.shields.io/badge/Claude-14171A?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/n8n-14171A?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/Next.js-14171A?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Supabase-14171A?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
 
-## Pode me perguntar sobre
+## Vamos conversar
 
-Como conduzir discovery sem virar relatório de 15 páginas que ninguém lê. Como estruturar um design system que o time realmente usa. Como montar automações com n8n e agentes sem precisar ser dev. Como migrar de executor para quem participa da decisão de produto. Se eu não souber, eu digo, e a gente descobre junto.
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="" />
-
-</div>
+Se você precisa de alguém com visão estratégica para caminhar lado a lado, o LinkedIn é o caminho mais rápido. Aviso justo: aqui tem mais protótipo do que produção. Ainda.
