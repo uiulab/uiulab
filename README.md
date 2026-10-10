@@ -21,7 +21,7 @@ Se você veio por causa de vaga, o portfólio conta a história melhor do que o 
 
 ## Agora
 
-- Construindo o **Distill**, que transforma o material de uma sessão de discovery em relatório que o stakeholder realmente lê [ajuste o estado atual]
+- Construindo o **Distill**, que transforma o material de uma sessão de discovery em relatório que o stakeholder realmente lê
 - Contando o processo, inclusive os erros, no LinkedIn e no Substack
 - Estudando como designers, devs e PMs estão virando um papel só, e o que isso muda para quem trabalha com produto
 
