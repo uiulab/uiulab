@@ -4,7 +4,7 @@
 
 <br/>
 
-Transformo caos em clareza para empresas de saúde e fintechs.
+Transformo caos em clareza.
 
 <a href="https://williamchaves.framer.website/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-14171A?style=for-the-badge&logo=framer&logoColor=white" alt="Portfólio" /></a>
 <a href="https://linkedin.com/in/williamchaves"><img src="https://img.shields.io/badge/LinkedIn-14171A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
