@@ -21,7 +21,7 @@
   <rect class="bg" width="1200" height="400" rx="18"/>
 
   <text class="meta" x="56" y="64">William Chaves, Product Designer</text>
-  <text class="meta" x="1144" y="64" text-anchor="end">2026</text>
+  <text class="meta" x="1144" y="64" text-anchor="end">2027</text>
   <line class="rule" x1="56" y1="88" x2="1144" y2="88"/>
 
   <text class="hero a1" x="52" y="200">Construo produtos</text>
@@ -31,5 +31,6 @@
   <text class="label" x="1144" y="262" text-anchor="end">pessoas impactadas</text>
 
   <line class="rule" x1="56" y1="326" x2="1144" y2="326"/>
-  <text class="sub" x="56" y="364">Discovery, estratégia de produto e design systems para saúde e fintechs.</text>
+  <text class="sub" x="56" y="364">Discovery, estratégia de produto e design systems. Transformo caos em clareza.</text>
+  
 </svg>
